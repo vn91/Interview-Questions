@@ -6,3 +6,5 @@ Interview Questions
     4:What is mutable?What are its disadvantages or advantages ?
     5:How to use multiple configuration file in spring?
     6:Which methods should your class implement to be a key ?  
+    7:Write the double sort algorithm.
+    8:Write hash code and equals method.
