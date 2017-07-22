@@ -1,0 +1,39 @@
+1.How to make an object immuttable? 
+	*Make the class 'final'
+	*Do not add setters
+2.Write a rest web services program to consume and produce json object	
+3.What are limitations of sending value in query param?
+	*Sending sensitive informations like user credentials(password)/credit card numbers in query param should be avoided as this will be present in the URL. From URL anyone can access these informations at later point. 
+4.How do you achieve dependency injection in Spring?
+5.What are thread pools? 
+6.What is callable?
+7.Write a program using oops concepts.
+8.Ways to implement Thread. Write a program for the same.
+9.What is encapsulation?
+10.What is polymorphism?
+11.How HashMap works? Explain its implementation
+12.Implementation for adding a node in a LinkedList
+13.Program to find the loop in LinkedList
+	 -----------	 ----------- 	 -----------	 -----------				                                                 
+	|nil| 1 | 2 |	| 1 | 2 | 3 |	| 2 | 3 | 4 |	| 3 | 4 | 2 |
+	 -----------	 ----------- 	 -----------	 -----------				                                                
+			      ^					  |
+			      |___________________________________|
+
+	4th element is looped to 2nd element. How to find this looping?
+14.Design patterns - Singleton/Prototype/Composite
+15.Provided sequence of numbers starting from 1 and this sequence has a missing number. Write a program to find it
+	*n((n+1)/2) - sum of given numbers //This will fetch the result
+16.What is ConcurrentHashMap and where will you use it?
+17.Can a object(ex. Employee) be key in a Map? If yes, how will we find difference b/w two objects?
+18.What is static? Explain in detail
+19.What is a Qualifier in Spring?
+20.Can be a key 'null' in HashMap?
+21.Difference b/t Comparable and Comparator
+22.Overloading vs Overiding
+23.How to compile and run a java program in terminal
+24.Explain Exceptions and its types
+	[x]Types
+		*Checked exceptions	- IOException, SQLException, etc., Exceptions should be handled with try-catch or thrown
+		*Unchecked exceptions	- ArthimeticException, ArrayIndexOutOfBoundException, etc.,
+		*Error			- OutOfMemoryError, etc.,
